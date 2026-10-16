@@ -1,7 +1,7 @@
 # ¡Hola! Soy José Ribas 👋
 ### Data Engineer | Arquitectura Cloud & IA en Google Cloud
 
-Trabajo a diario con **BigQuery, Dataform y Dataflow** en proyectos de banca y retail. Acá vas a encontrar el código, las plantillas de arquitectura y los repos prácticos de mi canal de YouTube **[José Ribas | Data & AI](TU_LINK_DE_YOUTUBE)**.
+Trabajo a diario con **BigQuery, Dataform y Dataflow** en proyectos de banca y retail. Acá vas a encontrar el código, las plantillas de arquitectura y los repos prácticos de mi canal de YouTube **[José Ribas | Data & AI](https://www.youtube.com/@JoseRibasData)**.
 
 🏅 Google Cloud Certified – Associate Cloud Engineer
 
